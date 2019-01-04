@@ -1,0 +1,5 @@
+com\Minds\UserService.class
+com\Minds\UserController.class
+com\Minds\UserRepository.class
+com\Minds\SpringBootJpaApplication.class
+com\Minds\UserRecord.class
